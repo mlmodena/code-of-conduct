@@ -1,7 +1,7 @@
-Italian C++ events Staff Procedure for Incident Handling
+ML Modena events Staff Procedure for Incident Handling
 ===============================================
 
-Italian C++ Community events staff should follow these guidelines and procedures when handling
+ML Modena staff should follow these guidelines and procedures when handling
 an incident of harassment or other inappropriate behavior.
 
 First, familiarize yourself with:
@@ -21,7 +21,7 @@ everyone is physically safe, involve law enforcement or security only at a
 victim's request. 
 
 2. **Inform the Code of Conduct conference staff of the incident.**
-Marco/Alessandro (info below) should be contacted and informed
+Marco (info below) should be contacted and informed
 that an incident has occurred. 
 
 3. **Record what happened.** If possible, have the individual reporting the
@@ -116,7 +116,7 @@ that the incident occurred to begin with. If there are residual hard feelings,
 suggest that they write an email to Marco/Alessandro.
 
 10. **The Code of Conduct conference staff will make an announcement if
-necessary.** Marco/Alessandro may decide to make a
+necessary.** Marco may decide to make a
 public announcement about the incident. If an announcement is made, the privacy
 of individual attendees should be respected. Personal information and details
 of the incident should not be shared unless it is necessary.
@@ -127,5 +127,4 @@ Contact Information
 The Code of Conduct conference staff are responsible for overseeing incident
 handling:
 
-* Marco Arena,              President and Organizer, [marco@italiancpp.org](mailto:marco@italiancpp.org)
-* Alessandro Vergani,       Staff, [alessandro.vergani@live.com](mailto:alessandro.vergani@live.com)
+* Marco Arena,              Co-founder, [marco@italiancpp.org](mailto:marco@italiancpp.org)
