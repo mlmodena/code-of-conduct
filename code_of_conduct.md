@@ -1,28 +1,28 @@
-Italian C++ Code of Conduct, Version 1.0
+ML Modena Code of Conduct, Version 1.0
 ===========================================
 
 Introduction
 ------------
 
-[Italian C++ Community](http://italiancpp.org) is a community intended for networking and
-  collaboration in the C++ community.
+[ML Modena](https://mlmodena.it) is a community intended for networking and
+  collaboration in the Artificial Intelligence and Machine Learning community.
 
-We value the participation of each member of Italian C++ Community events and
+We value the participation of each member of ML Modena events and
   want all attendees to have an enjoyable and fulfilling experience.
 Accordingly, all participants are expected to show respect and courtesy to
   other participants throughout the conference and at all conference events,
-  whether officially sponsored by Italian C++ Community or not.
+  whether officially sponsored by ML Modena or not.
 
 To make clear what is expected, all attendees, speakers, exhibitors, sponsors,
-  vendors and conference staff at all Italian C++ Community events are required to
+  vendors and conference staff at all ML Modena events are required to
   conform to the following Code of Conduct.
 
-For each Italian C++ Community event, the staff will enforce this code.
+For each ML Modena event, the staff will enforce this code.
 
 Code of Conduct
 ---------------
 
-Italian C++ Community is dedicated to providing a harassment-free conference experience
+ML Modena is dedicated to providing a harassment-free conference experience
   for everyone, regardless of gender, sexual orientation, disability, physical
   appearance, body size, race, or religion.
 
@@ -42,7 +42,7 @@ All communication should be appropriate for a professional audience including
 Be kind to others. Do not insult or put down other attendees.
 Sexual language and imagery is not appropriate for any conference venue,
   including talks
-Excessive swearing and offensive jokes **are not appropriate** for any Italian C++ Community event.
+Excessive swearing and offensive jokes **are not appropriate** for any ML Modena event.
 
 We do not tolerate harassment of conference participants in any form.
 If a participant engages in behavior that violates this code of conduct, the
@@ -65,8 +65,7 @@ Contact Information
 If you are being harassed, notice that someone else is being harassed, or have
   any other concerns, please contact one of the following individuals: 
 
-* Marco Arena, President and Organizer, marco@italiancpp.org 
-* Alessandro Vergani, Staff, alessandro.vergani@live.com
+* Marco Arena, Co-founder, marco@italiancpp.org 
 
 All reports and concerns are kept confidential. 
  
@@ -84,7 +83,7 @@ Procedure for Incident Handling
 License
 -------
 
-This is version 1.0 of the Italian C++ Code of Conduct.
+This is version 1.0 of the ML Modena of Conduct.
 It is licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0).
 It is a derivative of the [C++ Code of Conduct](https://github.com/brycelelbach/cpp_code_of_conduct),
   which is itself a derivative of the [PyCon Code of Conduct](https://github.com/python/pycon-code-of-conduct)
